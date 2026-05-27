@@ -229,52 +229,7 @@ Local Search
 
 tracemalloc for memory tracking
 
-
-
 ---
-
-## 📚 Educational Value
-
-This project is useful for learning:
-
-Artificial Intelligence fundamentals
-
-Constraint Satisfaction Problems
-
-Search algorithms
-
-Heuristics
-
-Backtracking techniques
-
-Local search optimization
-
-
-
----
-
-## 🚀 Possible Improvements
-
-Ideas for future development:
-
-GUI version using Tkinter or PyQt
-
-Web version with Django or Flask
-
-Sudoku generator
-
-More heuristics
-
-Benchmark comparison system
-
-Save solving logs
-
-Animation improvements
-
-
-
----
-
 ### 👨‍💻 Author
 
 Created by Afrooz Behrooznick
