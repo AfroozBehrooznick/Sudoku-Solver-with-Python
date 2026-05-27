@@ -1,4 +1,4 @@
-Sudoku Solver 🧩
+#Sudoku Solver 🧩
 
 A Python-based Sudoku Solver that combines Constraint Satisfaction Problems (CSP) techniques with classic AI search algorithms to solve Sudoku puzzles efficiently.
 
@@ -7,7 +7,7 @@ This project supports multiple solving strategies, visualization of the solving 
 
 ---
 
-✨ Features
+##✨ Features
 
 ✅ Multiple AI solving algorithms
 
@@ -43,7 +43,7 @@ Read from file
 
 ---
 
-🧠 Algorithms Implemented
+##🧠 Algorithms Implemented
 
 1. CSP + Arc Consistency (AC-3)
 
@@ -110,7 +110,7 @@ AI experimentation
 
 ---
 
-📂 Project Structure
+##📂 Project Structure
 
 Sudoku Solver.py
 
@@ -119,7 +119,7 @@ Everything is implemented in a single Python file for simplicity and portability
 
 ---
 
-▶️ How to Run
+##▶️ How to Run
 
 Make sure Python 3 is installed.
 
@@ -130,7 +130,7 @@ python "Sudoku Solver.py"
 
 ---
 
-📥 Puzzle Input Methods
+##📥 Puzzle Input Methods
 
 Predefined Puzzles
 
@@ -175,7 +175,7 @@ Then load it directly from the program.
 
 ---
 
-👀 Visualization Mode
+##👀 Visualization Mode
 
 Enable visualization to watch the solving process step-by-step.
 
@@ -195,13 +195,13 @@ Demonstrations
 
 ---
 
-📊 Performance Tracking
+##📊 Performance Tracking
 
 The solver automatically measures:
 
 ⏱ Execution Time
 
-💾 Peak Memory Usage
+##💾 Peak Memory Usage
 
 
 Example output:
@@ -213,7 +213,7 @@ Peak Memory:   128.54 KB
 
 ---
 
-🛠 Technologies Used
+##🛠 Technologies Used
 
 Python 3
 
@@ -233,7 +233,7 @@ tracemalloc for memory tracking
 
 ---
 
-📚 Educational Value
+##📚 Educational Value
 
 This project is useful for learning:
 
@@ -253,7 +253,7 @@ Local search optimization
 
 ---
 
-🚀 Possible Improvements
+##🚀 Possible Improvements
 
 Ideas for future development:
 
@@ -275,6 +275,6 @@ Animation improvements
 
 ---
 
-👨‍💻 Author
+###👨‍💻 Author
 
 Created by Afrooz Behrooznick
