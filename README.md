@@ -4,6 +4,8 @@ A Python-based Sudoku Solver that combines Constraint Satisfaction Problems (CSP
 
 This project supports multiple solving strategies, visualization of the solving process, performance tracking, and flexible puzzle input methods — making it useful both for learning AI concepts and experimenting with search algorithms.
 
+A web based version of this project is also available here:
+[https://github.com/AfroozBehrooznick/Sudoku-Solver-Web-Edition]
 
 ---
 
